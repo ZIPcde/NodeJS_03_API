@@ -1,9 +1,1 @@
-[
-    {
-        "id": 1,
-        "firstname": "Ivan",
-        "secondname": "Ivanov",
-        "city": "Moscow",
-        "age": 20
-    }
-]
+[{"id":1,"firstname":"Ivan","secondName":"Ivanov","city":"Moscow","age":20},{"id":2,"firstname":"Petr","secondName":"Petrov","city":"Voronezh","age":27},{"id":2,"firstname":"Petr","secondName":"Petrov","city":"Voronezh","age":27},{"id":3,"firstname":"Petr","secondName":"Petrovsky","city":"Voron","age":29},{"id":4,"firstname":"Petr","secondName":"Petrov","city":"Voronezh","age":27},{"id":5,"firstname":"Petr","secondName":"Petrov","city":"Voronezh","age":27},{"id":6,"firstname":"Petr","secondName":"Petrov","city":"Voronezh","age":27},{"id":2,"firstname":"Igor","secondName":"Petrov","city":"Miass","age":27},{"id":3,"firstname":"Igor","secondName":"Petrov","age":27}]
